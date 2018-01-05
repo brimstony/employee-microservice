@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-microservice.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-microservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-microservice_main.iml" group="employee-microservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-microservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-microservice_test.iml" group="employee-microservice" />
+    </modules>
+  </component>
+</project>

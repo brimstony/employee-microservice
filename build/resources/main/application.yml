@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: employee-service
+    data:
+        mongodb:
+          uri: mongodb://localhost:27017/microserviceblog
+        
+server:
+    port: 9000
